@@ -8,5 +8,6 @@ Fakes an Atheros AR5B95/AR5B95-H card for macOS 10.13
 
 # Tests
 This kext has been tested using OC 0.7.5 on a HP DV6-3170sb running High Sierra
-
+<br />
+<br />
 ![](AR5B95.jpg)
